@@ -49,7 +49,7 @@ const data = [
     title: "Crypto Currency Dashboard",
     github: "https://github.com/",
     demo: "https://dribbble.com/shots/21021007-logo-design-logo-modern-logos-icons-brand-identity-logomarks",
-  },
+  }
 ];
 
 const Portfolio = () => {

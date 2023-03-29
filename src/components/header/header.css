@@ -12,11 +12,12 @@ header {
 
 /*===========LOGO============*/
 .header__logo {
-    width: 22rem;
-    height: 25rem;
+    width: 15rem;
+    height: 13rem;
     position: absolute;
-    left: calc(50% - 11rem);
-    padding: 6rem 0rem 0rem 1.5rem;
+    left: calc(50% - 7rem);
+    top: calc(50% - 10rem);
+    padding: 0rem;
 }
 
 /*=========CTA=============*/

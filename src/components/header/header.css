@@ -77,6 +77,9 @@ header {
     header {
         height: 68vh;
     }
+    .header__logo {
+        top: calc(50% - 2.5rem);
+    }
 
 }
 
@@ -89,5 +92,9 @@ header {
     .header__socials, .scroll__down {
         display: none;
     }
+    .header__logo {
+        top: calc(50% - 13rem);
+    }
+
 
 }
